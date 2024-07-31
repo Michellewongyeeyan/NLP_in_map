@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>地名地图</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css" />
+    <style>
+        #map { height: 400px; }
+    </style>
+</head>
+<body>
+    <div id="map"></div>
+    <script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
+    <script>
+        var map = L.map('map').setView([0, 0], 2); // 设置地图中心和缩放级别
+
+        L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+            maxZoom: 19,
+        }).addTo(map);
+
+        // 添加地点的函数
+        function addMarker(lat, lon, name) {
+            L.marker([lat, lon]).addTo(map).bindPopup(name).openPopup();
+        }
+
+        // 通过Geopy获取地点坐标的函数
+        function getGeocoding(place) {
+            fetch(`https://nominatim.openstreetmap.org/search?format=json&q=${place}`)
+                .then(response => response.json())
+                .then(data => {
+                    if (data && data.length > 0) {
+                        addMarker(data[0].lat, data[0].lon, place);
+                    }
+                });
+        }
+
+        // 地点信息
+        var places = ["Cupertino", "Mountain View"];
+
+        // 获取地点坐标并在地图上标记
+        places.forEach(place => {
+            getGeocoding(place);
+        });
+    </script>
+</body>
+</html>
