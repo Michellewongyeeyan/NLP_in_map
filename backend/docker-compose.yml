@@ -1,0 +1,18 @@
+services:
+  db_api_ninja:
+    build:
+      context: ./db_api_ninja
+      dockerfile: ./docker/dockerfile
+    container_name: db_api_ninja
+    restart: always
+    ports:
+      - 8000:8000
+    volumes:
+      - ./db_api_ninja:/app
+    env_file:
+      - .env
+    environment:
+      # django setting
+      - DJANGO_DEBUG=${DJANGO_DEBUG}
+      - DJANGO_DEPLOY=${DJANGO_DEPLOY}
+    command: sh -c "python manage.py migrate && python manage.py runserver 0.0.0.0:${DJANGO_PORT}"
