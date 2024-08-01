@@ -1,31 +1,17 @@
 services:
-  # mongoapi:
-  #   build: 
-  #     context: ./mongoapi
-  #     dockerfile: dockerfile
-  #   container_name: mongoapi
-  #   ports:
-  #     - 8000:8000
-  #   environment:
-  #     MONGODB_URL: "mongodb://schoolai:passW0rd@mongo:27017/"
-  #   volumes:
-  #     - ./mongoapi:/app
-  #   depends_on:
-  #     - mongo
-
-  # mongoapi_al:
-  #   build: 
-  #     context: ./mongoapi_al
-  #     dockerfile: dockerfile
-  #   container_name: mongoapi_al
-  #   ports:
-  #     - 8001:8001
-  #   environment:
-  #     MONGODB_URL: "mongodb://schoolai:passW0rd@mongo:27017/"
-  #   volumes:
-  #     - ./mongoapi_al:/app
-  #   depends_on:
-  #     - mongo
+  mongo_api:
+    build: 
+      context: ./mongo_api
+      dockerfile: ./docker/dockerfile
+    container_name: mongo_api
+    ports:
+      - ${FASTAPI_PORT}:${FASTAPI_PORT}
+    env_file:
+      - ./env/.env.local
+    volumes:
+      - ./mongo_api:/app
+    depends_on:
+      - mongo
 
   # MongoDB
   mongo:
@@ -44,7 +30,7 @@ services:
   #   build: 
   #     context: ./setup
   #     dockerfile: dockerfile
-  #   container_name: schoolai-mongosh
+  #   container_name: mongosh
   #   network_mode: host # host mod 唔洗 ports
   #   # ports:
   #   #   - 8082:5000
@@ -53,7 +39,7 @@ services:
 
   mongo-express:
     image: mongo-express
-    container_name: schoolai-mongo-express
+    container_name: mongo-express
     restart: always
     ports:
       - 8081:8081
