@@ -1,0 +1,11 @@
+FROM mongo:latest
+
+WORKDIR /app
+
+ADD . .
+
+CMD mongoimport \
+    --uri "mongodb://admin:admin@localhost:27017/" \
+    --authenticationDatabase=admin \
+    --db ansc --collection chapter --type json \
+    --file /app/chapter_location.json --jsonArray --drop

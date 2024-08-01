@@ -15,6 +15,7 @@ from .database import (
 # 引入數據模型
 from .models import (
     Model,           # 模型
+    ManyModel,
     UpdateModel,    # 更新模型
 )
 
@@ -23,18 +24,24 @@ from api.utils.response import (
     ErrorResponseModel,  # 錯誤響應模型
 )
 
-# CRUD 增刪查改
-# 新增
-@router.post("/", response_description="創建")
+# CRUD 
+@router.post("/", response_description="add data")
 async def add(model: Model = Body(...)):
-    model = jsonable_encoder(model) # 將數據轉換為 JSON 可序列化的格式
+    model = jsonable_encoder(model)
     new_data = await add_data(model)
     if new_data:
         return ResponseModel(new_data, "Added Successfully.")
     return ErrorResponseModel("An error occurred", 404, "Already Exists")
 
-# 刪除
-@router.delete("/{id}", response_description="刪除")
+@router.post("/many", response_description="add many data")
+async def add_many(model: ManyModel = Body(...)):
+    model = jsonable_encoder(model.data)
+    new_data = await add_data(model)
+    if new_data:
+        return ResponseModel(new_data, "Added Successfully.")
+    return ErrorResponseModel("An error occurred", 404, "Already Exists")
+
+@router.delete("/{id}", response_description="delect data")
 async def delete(id: str):
     data = await delete_data(id)
     if data:
@@ -45,23 +52,19 @@ async def delete(id: str):
         f"An error occurred", 404, "Data with id {id} doesn't exist"
     )
 
-# 查看
-## 全部
-@router.get("/", response_description="取得所有")
+@router.get("/", response_description="gets data")
 async def gets():
     datas = await get_datas()
     return ResponseModel(datas, "Get all datas successfully")
 
-# ## 單個
-@router.get("/{id}", response_description="取得單個")
+@router.get("/{id}", response_description="get data")
 async def get(id: str):
     data = await get_data(id)
     if data:
         return ResponseModel(data, "Get data successfully")
     return ErrorResponseModel("An error occurred.", 404, "data doesn't exist.")    
 
-# # 更新
-@router.put("/{id}", response_description="更新")
+@router.put("/{id}", response_description="update data")
 async def update(id:str,req: UpdateModel = Body(...)):
     req = {k: v for k, v in req.dict().items() if v is not None}
     updated_data = await update_data(id, req)

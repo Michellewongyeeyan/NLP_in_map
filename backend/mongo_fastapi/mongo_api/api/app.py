@@ -2,9 +2,10 @@ import os
 from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
 
+DEPLOY = os.getenv("FASTAPI_DEPLOY", 'Null')
 DEBUG = bool(os.getenv("FASTAPI_DEBUG", True))
 
-app = FastAPI( title="Mongo Fast API", docs_url="/api/docs" if DEBUG else None, redoc_url=None)
+app = FastAPI( title=f"Mongo Fast API | {DEPLOY.capitalize()}", docs_url="/api/docs" if DEBUG else None, redoc_url=None)
 
 origins = [ "*" ]
 app.add_middleware(

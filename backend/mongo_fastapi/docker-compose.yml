@@ -26,16 +26,16 @@ services:
   
   # # Mongos Shell:
   # # 寫入基礎數據
-  # mongosh:
-  #   build: 
-  #     context: ./setup
-  #     dockerfile: dockerfile
-  #   container_name: mongosh
-  #   network_mode: host # host mod 唔洗 ports
-  #   # ports:
-  #   #   - 8082:5000
-  #   depends_on:
-  #     - mongo
+  mongosh:
+    build: 
+      context: ./mongo_setup
+      dockerfile: dockerfile
+    container_name: mongosh
+    network_mode: host # host mod 唔洗 ports
+    # ports:
+    #   - 8082:5000
+    depends_on:
+      - mongo
 
   mongo-express:
     image: mongo-express
