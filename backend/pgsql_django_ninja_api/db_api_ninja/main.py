@@ -7,9 +7,11 @@ load_dotenv()
 
 PORT = int(os.getenv("DJANGO_PORT", 8000))
 DEBUG = bool(os.getenv("DJANGO_DEBUG", True))
+DEPLOY = os.getenv("DJANGO_DEPLOY", 'Null')
 
 if __name__ == "__main__":
     print('-'*50)
+    print(f'ANSC:\t  API SERVER: Mogno Fast API | {DEPLOY.capitalize()}')
     print(f'ANSC:\t  API SERVER RUN ON 127.0.0.1:{PORT}')
     print(f"ANSC:\t  API SERVER DEBUG MODE: {DEBUG}")
     print('-'*50)

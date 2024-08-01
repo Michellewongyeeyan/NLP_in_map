@@ -1,0 +1,49 @@
+services:
+  mongo_api:
+    build: 
+      context: ./mongo_api
+      dockerfile: ./docker/dockerfile
+    container_name: mongo_api
+    ports:
+      - ${FASTAPI_PORT}:${FASTAPI_PORT}
+    env_file:
+      - ./env/.env.local
+    volumes:
+      - ./mongo_api:/app
+    depends_on:
+      - mongo
+
+  # MongoDB
+  mongo:
+    image: mongo
+    container_name: mongo
+    ports:
+      - 27017:27017
+    env_file:
+      - ./env/.env.local
+    volumes:
+      - ./db/local:/data/db
+  
+  # # Mongos Shell:
+  # # 寫入基礎數據
+  mongosh:
+    build: 
+      context: ./mongo_setup
+      dockerfile: dockerfile
+    container_name: mongosh
+    network_mode: host # host mod 唔洗 ports
+    # ports:
+    #   - 8082:5000
+    depends_on:
+      - mongo
+
+  mongo-express:
+    image: mongo-express
+    container_name: mongo-express
+    restart: always
+    ports:
+      - 8081:8081
+    env_file:
+      - ./env/.env.local
+    depends_on:
+      - mongo
