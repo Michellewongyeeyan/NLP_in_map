@@ -6,7 +6,7 @@ services:
     container_name: db_api_ninja
     restart: always
     ports:
-      - 8000:8000
+      - ${DJANGO_PORT}:${DJANGO_PORT}
     volumes:
       - ./db_api_ninja:/app
     env_file:
