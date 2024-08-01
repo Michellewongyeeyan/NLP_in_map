@@ -1,0 +1,217 @@
+{
+    "Athens": {
+        "nominatim": [
+            39.2556311,
+            -81.7715217
+        ],
+        "lines": [
+            15
+        ],
+        "count": 1,
+        "text": [
+            "—My name is absurd too: Malachi Mulligan, two dactyls. But it has a Hellenic ring, hasn’t it? Tripping and sunny like the buck himself. We must go to Athens. Will you come if I can get the aunt to fork out twenty quid?"
+        ]
+    },
+    "Dublin": {
+        "nominatim": [
+            53.3493795,
+            -6.2605593
+        ],
+        "lines": [
+            34
+        ],
+        "count": 1,
+        "text": [
+            "He mounted to the parapet again and gazed out over Dublin bay, his fair oakpale hair stirring slightly."
+        ]
+    },
+    "Kingstown": {
+        "nominatim": [
+            53.2922794,
+            -6.1360079
+        ],
+        "lines": [
+            36
+        ],
+        "count": 1,
+        "text": [
+            "Stephen stood up and went over to the parapet. Leaning on it he looked down on the water and on the mailboat clearing the harbourmouth of Kingstown."
+        ]
+    },
+    "Dottyville": {
+        "nominatim": [],
+        "lines": [
+            55
+        ],
+        "count": 1,
+        "text": [
+            "—That fellow I was with in the Ship last night, said Buck Mulligan, says you have g. p. i. He’s up in Dottyville with Connolly Norman. General paralysis of the insane!"
+        ]
+    },
+    "Bray Head": {
+        "nominatim": [
+            53.1904724,
+            -6.0837452
+        ],
+        "lines": [
+            75
+        ],
+        "count": 1,
+        "text": [
+            "They halted, looking towards the blunt cape of Bray Head that lay on the water like the snout of a sleeping whale. Stephen freed his arm quietly."
+        ]
+    },
+    "Haines": {
+        "nominatim": [
+            53.2894887,
+            -6.1297938
+        ],
+        "lines": [
+            120,
+            142,
+            232,
+            307
+        ],
+        "count": 4,
+        "text": [
+            "—Dedalus, come down, like a good mosey. Breakfast is ready. Haines is apologising for waking us last night. It’s all right.",
+            "—I’m melting, he said, as the candle remarked when... But, hush! Not a word more on that subject! Kinch, wake up! Bread, butter, honey. Haines, come in. The grub is ready. Bless us, O Lord, and these thy gifts. Where’s the sugar? O, jay, there’s no milk.",
+            "—Wait till you hear him on Hamlet, Haines.",
+            "—After all, Haines began..."
+        ]
+    },
+    "Clongowes": {
+        "nominatim": [
+            53.310525299999995,
+            -6.686760774260252
+        ],
+        "lines": [
+            132
+        ],
+        "count": 1,
+        "text": [
+            "He went over to it, held it in his hands awhile, feeling its coolness, smelling the clammy slaver of the lather in which the brush was stuck. So I carried the boat of incense then at Clongowes. I am another now and yet the same. A servant too. A server of a servant."
+        ]
+    },
+    "Paris": {
+        "nominatim": [
+            48.874059700000004,
+            2.2914747338400483
+        ],
+        "lines": [
+            146
+        ],
+        "count": 1,
+        "text": [
+            "—O, damn you and your Paris fads! Buck Mulligan said. I want Sandycove milk."
+        ]
+    },
+    "Dundrum": {
+        "nominatim": [
+            53.2891457,
+            -6.2433756
+        ],
+        "lines": [
+            160
+        ],
+        "count": 1,
+        "text": [
+            "—That’s folk, he said very earnestly, for your book, Haines. Five lines of text and ten pages of notes about the folk and the fishgods of Dundrum. Printed by the weird sisters in the year of the big wind."
+        ]
+    },
+    "Ireland": {
+        "nominatim": [
+            52.865196,
+            -7.9794599
+        ],
+        "lines": [
+            198,
+            219,
+            226
+        ],
+        "count": 3,
+        "text": [
+            "—He’s English, Buck Mulligan said, and he thinks we ought to speak Irish in Ireland.",
+            "—Seriously, Dedalus. I’m stony. Hurry out to your school kip and bring us back some money. Today the bards must drink and junket. Ireland expects that every man this day will do his duty.",
+            "—All Ireland is washed by the gulfstream, Stephen said as he let honey trickle over a slice of the loaf."
+        ]
+    },
+    "Elsinore": {
+        "nominatim": [
+            51.92629515,
+            -8.180705743148366
+        ],
+        "lines": [
+            282
+        ],
+        "count": 1,
+        "text": [
+            "—I mean to say, Haines explained to Stephen as they followed, this tower and these cliffs here remind me somehow of Elsinore. _That beetles o’er his base into the sea,_ isn’t it?"
+        ]
+    },
+    "Panama": {
+        "nominatim": [
+            54.0044092,
+            -6.4030016
+        ],
+        "lines": [
+            287
+        ],
+        "count": 1,
+        "text": [
+            "Buck Mulligan at once put on a blithe broadly smiling face. He looked at them, his wellshaped mouth open happily, his eyes, from which he had suddenly withdrawn all shrewd sense, blinking with mad gaiety. He moved a doll’s head to and fro, the brims of his Panama hat quivering, and began to chant in a quiet happy foolish voice:"
+        ]
+    },
+    "England": {
+        "nominatim": [
+            52.0600343,
+            -0.347478
+        ],
+        "lines": [
+            317
+        ],
+        "count": 1,
+        "text": [
+            "—I can quite understand that, he said calmly. An Irishman must think like that, I daresay. We feel in England that we have treated you rather unfairly. It seems history is to blame."
+        ]
+    },
+    "Bullock": {
+        "nominatim": [
+            53.28040515,
+            -6.11541293903381
+        ],
+        "lines": [
+            322
+        ],
+        "count": 1,
+        "text": [
+            "—She’s making for Bullock harbour."
+        ]
+    },
+    "Westmeath": {
+        "nominatim": [
+            53.5577902,
+            -7.3478558260097575
+        ],
+        "lines": [
+            328
+        ],
+        "count": 1,
+        "text": [
+            "—Down in Westmeath. With the Bannons."
+        ]
+    },
+    "Carlisle": {
+        "nominatim": [
+            53.2058818,
+            -6.10268655231453
+        ],
+        "lines": [
+            335
+        ],
+        "count": 1,
+        "text": [
+            "—Going over next week to stew. You know that red Carlisle girl, Lily?"
+        ]
+    }
+}
