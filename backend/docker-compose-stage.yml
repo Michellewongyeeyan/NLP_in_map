@@ -2,4 +2,4 @@ include:
   - path :
     - ./pgsql_django_ninja_api/docker-compose-stage.yml
   - path:
-      - ./mongo_fastapi/docker-compose-stage.yml
+    - ./mongo_fastapi/docker-compose-stage.yml
