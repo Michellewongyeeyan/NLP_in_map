@@ -1,0 +1,245 @@
+{
+    "Cochrane": {
+        "nominatim": [
+            54.58184985,
+            -7.334632133213079
+        ],
+        "lines": [
+            0
+        ],
+        "count": 1,
+        "text": [
+            "—You, Cochrane, what city sent for him?"
+        ]
+    },
+    "Dalkey": {
+        "nominatim": [
+            53.2754961,
+            -6.102561409104025
+        ],
+        "lines": [
+            15
+        ],
+        "count": 1,
+        "text": [
+            "A bag of figrolls lay snugly in Armstrong’s satchel. He curled them between his palms at whiles and swallowed them softly. Crumbs adhered to the tissue of his lips. A sweetened boy’s breath. Welloff people, proud that their eldest son was in the navy. Vico Road, Dalkey."
+        ]
+    },
+    "Kingstown": {
+        "nominatim": [
+            53.2922794,
+            -6.1360079
+        ],
+        "lines": [
+            19,
+            21
+        ],
+        "count": 2,
+        "text": [
+            "—A pier, sir, Armstrong said. A thing out in the water. A kind of a bridge. Kingstown pier, sir.",
+            "—Kingstown pier, Stephen said. Yes, a disappointed bridge."
+        ]
+    },
+    "Paris": {
+        "nominatim": [
+            48.874059700000004,
+            2.2914747338400483
+        ],
+        "lines": [
+            35,
+            161
+        ],
+        "count": 2,
+        "text": [
+            "It must be a movement then, an actuality of the possible as possible. Aristotle’s phrase formed itself within the gabbled verses and floated out into the studious silence of the library of Saint Genevieve where he had read, sheltered from the sin of Paris, night by night. By his elbow a delicate Siamese conned a handbook of strategy. Fed and feeding brains about me: under glowlamps, impaled, with faintly beating feelers: and in my mind’s darkness a sloth of the underworld, reluctant, shy of brightness, shifting her dragon scaly folds. Thought is the thought of thought. Tranquil brightness. The soul is in a manner all that is: the soul is the form of forms. Tranquility sudden, vast, candescent: form of forms.",
+            "On the steps of the Paris stock exchange the goldskinned men quoting prices on their gemmed fingers. Gabble of geese. They swarmed loud, uncouth about the temple, their heads thickplotting under maladroit silk hats. Not theirs: these clothes, this speech, these gestures. Their full slow eyes belied the words, the gestures eager and unoffending, but knew the rancours massed about them and knew their zeal was vain. Vain patience to heap and hoard. Time surely would scatter all. A hoard heaped by the roadside: plundered and passing on. Their eyes knew their years of wandering and, patient, knew the dishonours of their flesh."
+        ]
+    },
+    "Wales": {
+        "nominatim": [
+            52.1275888,
+            -3.2442392
+        ],
+        "lines": [
+            128
+        ],
+        "count": 1,
+        "text": [
+            "Mr Deasy stared sternly for some moments over the mantelpiece at the shapely bulk of a man in tartan fillibegs: Albert Edward, prince of Wales."
+        ]
+    },
+    "Armagh": {
+        "nominatim": [
+            54.2358295,
+            -7.1194156322515
+        ],
+        "lines": [
+            130
+        ],
+        "count": 1,
+        "text": [
+            "Glorious, pious and immortal memory. The lodge of Diamond in Armagh the splendid behung with corpses of papishes. Hoarse, masked and armed, the planters’ covenant. The black north and true blue bible. Croppies lie down."
+        ]
+    },
+    "Dublin": {
+        "nominatim": [
+            53.3493795,
+            -6.2605593
+        ],
+        "lines": [
+            134,
+            135,
+            136
+        ],
+        "count": 3,
+        "text": [
+            "—_Per vias rectas_, Mr Deasy said firmly, was his motto. He voted for it and put on his topboots to ride to Dublin from the Ards of Down to do so.",
+            "Lal the ral the ra      The rocky road to Dublin.",
+            "A gruff squire on horseback with shiny topboots. Soft day, sir John! Soft day, your honour!... Day!... Day!... Two topboots jog dangling on to Dublin. Lal the ral the ra. Lal the ral the raddy."
+        ]
+    },
+    "Westminster": {
+        "nominatim": [
+            51.51897835,
+            -0.13758160573183548
+        ],
+        "lines": [
+            141
+        ],
+        "count": 1,
+        "text": [
+            "Stephen seated himself noiselessly before the princely presence. Framed around the walls images of vanished horses stood in homage, their meek heads poised in air: lord Hastings’ _Repulse_, the duke of Westminster’s _Shotover_, the duke of Beaufort’s _Ceylon_, _prix de Paris_, 1866. Elfin riders sat them, watchful of a sign. He saw their speeds, backing king’s colours, and shouted with the shouts of vanished crowds."
+        ]
+    },
+    "Beaufort": {
+        "nominatim": [
+            52.0689701,
+            -9.6366468
+        ],
+        "lines": [
+            141
+        ],
+        "count": 1,
+        "text": [
+            "Stephen seated himself noiselessly before the princely presence. Framed around the walls images of vanished horses stood in homage, their meek heads poised in air: lord Hastings’ _Repulse_, the duke of Westminster’s _Shotover_, the duke of Beaufort’s _Ceylon_, _prix de Paris_, 1866. Elfin riders sat them, watchful of a sign. He saw their speeds, backing king’s colours, and shouted with the shouts of vanished crowds."
+        ]
+    },
+    "Liverpool": {
+        "nominatim": [
+            51.5687073,
+            -9.162556315271008
+        ],
+        "lines": [
+            149
+        ],
+        "count": 1,
+        "text": [
+            "May I trespass on your valuable space. That doctrine of _laissez faire_ which so often in our history. Our cattle trade. The way of all our old industries. Liverpool ring which jockeyed the Galway harbour scheme. European conflagration. Grain supplies through the narrow waters of the channel. The pluterperfect imperturbability of the department of agriculture. Pardoned a classical allusion. Cassandra. By a woman who was no better than she should be. To come to the point at issue."
+        ]
+    },
+    "Galway": {
+        "nominatim": [
+            53.2744122,
+            -9.0490601
+        ],
+        "lines": [
+            149
+        ],
+        "count": 1,
+        "text": [
+            "May I trespass on your valuable space. That doctrine of _laissez faire_ which so often in our history. Our cattle trade. The way of all our old industries. Liverpool ring which jockeyed the Galway harbour scheme. European conflagration. Grain supplies through the narrow waters of the channel. The pluterperfect imperturbability of the department of agriculture. Pardoned a classical allusion. Cassandra. By a woman who was no better than she should be. To come to the point at issue."
+        ]
+    },
+    "Mürzsteg": {
+        "nominatim": [],
+        "lines": [
+            151
+        ],
+        "count": 1,
+        "text": [
+            "Foot and mouth disease. Known as Koch’s preparation. Serum and virus. Percentage of salted horses. Rinderpest. Emperor’s horses at Mürzsteg, lower Austria. Veterinary surgeons. Mr Henry Blackwood Price. Courteous offer a fair trial. Dictates of common sense. Allimportant question. In every sense of the word take the bull by the horns. Thanking you for the hospitality of your columns."
+        ]
+    },
+    "Austria": {
+        "nominatim": [
+            53.3206116,
+            -6.2176485
+        ],
+        "lines": [
+            151,
+            152
+        ],
+        "count": 2,
+        "text": [
+            "Foot and mouth disease. Known as Koch’s preparation. Serum and virus. Percentage of salted horses. Rinderpest. Emperor’s horses at Mürzsteg, lower Austria. Veterinary surgeons. Mr Henry Blackwood Price. Courteous offer a fair trial. Dictates of common sense. Allimportant question. In every sense of the word take the bull by the horns. Thanking you for the hospitality of your columns.",
+            "—I want that to be printed and read, Mr Deasy said. You will see at the next outbreak they will put an embargo on Irish cattle. And it can be cured. It is cured. My cousin, Blackwood Price, writes to me it is regularly treated and cured in Austria by cattledoctors there. They offer to come over here. I am trying to work up influence with the department. Now I’m going to try publicity. I am surrounded by difficulties, by... intrigues by... backstairs influence by..."
+        ]
+    },
+    "England": {
+        "nominatim": [
+            52.0600343,
+            -0.347478
+        ],
+        "lines": [
+            154,
+            157
+        ],
+        "count": 2,
+        "text": [
+            "—Mark my words, Mr Dedalus, he said. England is in the hands of the jews. In all the highest places: her finance, her press. And they are the signs of a nation’s decay. Wherever they gather they eat up the nation’s vital strength. I have seen it coming these years. As sure as we are standing here the jew merchants are already at their work of destruction. Old England is dying.",
+            "The harlot’s cry from street to street      Shall weave old England’s windingsheet."
+        ]
+    },
+    "Troy": {
+        "nominatim": [
+            53.205737,
+            -7.6983476
+        ],
+        "lines": [
+            174
+        ],
+        "count": 1,
+        "text": [
+            "—I am happier than you are, he said. We have committed many errors and many sins. A woman brought sin into the world. For a woman who was no better than she should be, Helen, the runaway wife of Menelaus, ten years the Greeks made war on Troy. A faithless wife first brought the strangers to our shore here, MacMurrough’s wife and her leman, O’Rourke, prince of Breffni. A woman too brought Parnell low. Many errors, many failures but not the one sin. I am a struggler now at the end of my days. But I will fight for the right till the end."
+        ]
+    },
+    "Breffni": {
+        "nominatim": [
+            52.6435017,
+            -7.264486294503365
+        ],
+        "lines": [
+            174
+        ],
+        "count": 1,
+        "text": [
+            "—I am happier than you are, he said. We have committed many errors and many sins. A woman brought sin into the world. For a woman who was no better than she should be, Helen, the runaway wife of Menelaus, ten years the Greeks made war on Troy. A faithless wife first brought the strangers to our shore here, MacMurrough’s wife and her leman, O’Rourke, prince of Breffni. A woman too brought Parnell low. Many errors, many failures but not the one sin. I am a struggler now at the end of my days. But I will fight for the right till the end."
+        ]
+    },
+    "Ulster": {
+        "nominatim": [
+            54.09346585,
+            -7.198979447828666
+        ],
+        "lines": [
+            175
+        ],
+        "count": 1,
+        "text": [
+            "For Ulster will fight      And Ulster will be right."
+        ]
+    },
+    "Ireland": {
+        "nominatim": [
+            52.865196,
+            -7.9794599
+        ],
+        "lines": [
+            200
+        ],
+        "count": 1,
+        "text": [
+            "—I just wanted to say, he said. Ireland, they say, has the honour of being the only country which never persecuted the jews. Do you know that? No. And do you know why?"
+        ]
+    }
+}

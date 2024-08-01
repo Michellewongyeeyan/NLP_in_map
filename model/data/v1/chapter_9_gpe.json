@@ -1,0 +1,532 @@
+{
+    "England": {
+        "nominatim": [
+            52.0600343,
+            -0.347478
+        ],
+        "lines": [
+            39
+        ],
+        "count": 1,
+        "text": [
+            "We feel in England. Penitent thief. Gone. I smoked his baccy. Green twinkling stone. An emerald set in the ring of the sea."
+        ]
+    },
+    "France": {
+        "nominatim": [
+            53.7647716,
+            -7.6430925
+        ],
+        "lines": [
+            40
+        ],
+        "count": 1,
+        "text": [
+            "—People do not know how dangerous lovesongs can be, the auric egg of Russell warned occultly. The movements which work revolutions in the world are born out of the dreams and visions in a peasant’s heart on the hillside. For them the earth is not an exploitable ground but the living mother. The rarefied air of the academy and the arena produce the sixshilling novel, the musichall song. France produces the finest flower of corruption in Mallarmé but the desirable life is revealed only to the poor of heart, the life of Homer’s Phæacians."
+        ]
+    },
+    "Mallarmé": {
+        "nominatim": [],
+        "lines": [
+            42
+        ],
+        "count": 1,
+        "text": [
+            "—Mallarmé, don’t you know, he said, has written those wonderful prose poems Stephen MacKenna used to read to me in Paris. The one about _Hamlet._ He says: _il se promène, lisant au livre de lui-même_, don’t you know, _reading the book of himself_. He describes _Hamlet_ given in a French town, don’t you know, a provincial town. They advertised it."
+        ]
+    },
+    "Paris": {
+        "nominatim": [
+            48.874059700000004,
+            2.2914747338400483
+        ],
+        "lines": [
+            42,
+            59,
+            62,
+            111,
+            317,
+            362
+        ],
+        "count": 6,
+        "text": [
+            "—Mallarmé, don’t you know, he said, has written those wonderful prose poems Stephen MacKenna used to read to me in Paris. The one about _Hamlet._ He says: _il se promène, lisant au livre de lui-même_, don’t you know, _reading the book of himself_. He describes _Hamlet_ given in a French town, don’t you know, a provincial town. They advertised it.",
+            "—What is a ghost? Stephen said with tingling energy. One who has faded into impalpability through death, through absence, through change of manners. Elizabethan London lay as far from Stratford as corrupt Paris lies from virgin Dublin. Who is the ghost from _limbo patrum_, returning to the world that has forgotten him? Who is King Hamlet?",
+            "—It is this hour of a day in mid June, Stephen said, begging with a swift glance their hearing. The flag is up on the playhouse by the bankside. The bear Sackerson growls in the pit near it, Paris garden. Canvasclimbers who sailed with Drake chew their sausages among the groundlings.",
+            "Paris: the wellpleased pleaser.",
+            "Hurrying to her squalid deathlair from gay Paris on the quayside I touched his hand. The voice, new warmth, speaking. Dr Bob Kenny is attending her. The eyes that wish me well. But do not know me.",
+            "Fabulous artificer. The hawklike man. You flew. Whereto? Newhaven-Dieppe, steerage passenger. Paris and back. Lapwing. Icarus. _Pater, ait._ Seabedabbled, fallen, weltering. Lapwing you are. Lapwing be."
+        ]
+    },
+    "Pickwick": {
+        "nominatim": [],
+        "lines": [
+            55
+        ],
+        "count": 1,
+        "text": [
+            "—He will have it that _Hamlet_ is a ghoststory, John Eglinton said for Mr Best’s behoof. Like the fat boy in Pickwick he wants to make our flesh creep."
+        ]
+    },
+    "London": {
+        "nominatim": [
+            51.51897835,
+            -0.13758160573183548
+        ],
+        "lines": [
+            59,
+            105,
+            256,
+            272,
+            274
+        ],
+        "count": 5,
+        "text": [
+            "—What is a ghost? Stephen said with tingling energy. One who has faded into impalpability through death, through absence, through change of manners. Elizabethan London lay as far from Stratford as corrupt Paris lies from virgin Dublin. Who is the ghost from _limbo patrum_, returning to the world that has forgotten him? Who is King Hamlet?",
+            "—He had a good groatsworth of wit, Stephen said, and no truant memory. He carried a memory in his wallet as he trudged to Romeville whistling _The girl I left behind me._ If the earthquake did not time it we should know where to place poor Wat, sitting in his form, the cry of hounds, the studded bridle and her blue windows. That memory, _Venus and Adonis_, lay in the bedchamber of every light-of-love in London. Is Katharine the shrew illfavoured? Hortensio calls her young and beautiful. Do you think the writer of _Antony and Cleopatra_, a passionate pilgrim, had his eyes in the back of his head that he chose the ugliest doxy in all Warwickshire to lie withal? Good: he left her and gained the world of men. But his boywomen are the women of a boy. Their life, thought, speech are lent them by males. He chose badly? He was chosen, it seems to me. If others have their will Ann hath a way. By cock, she was to blame. She put the comether on him, sweet and twentysix. The greyeyed goddess who bends over the boy Adonis, stooping to conquer, as prologue to the swelling act, is a boldfaced Stratford wench who tumbles in a cornfield a lover younger than herself.",
+            "—Antisthenes, pupil of Gorgias, Stephen said, took the palm of beauty from Kyrios Menelaus’ brooddam, Argive Helen, the wooden mare of Troy in whom a score of heroes slept, and handed it to poor Penelope. Twenty years he lived in London and, during part of that time, he drew a salary equal to that of the lord chancellor of Ireland. His life was rich. His art, more than the art of feudalism as Walt Whitman called it, is the art of surfeit. Hot herringpies, green mugs of sack, honeysauces, sugar of roses, marchpane, gooseberried pigeons, ringocandies. Sir Walter Raleigh, when they arrested him, had half a million francs on his back including a pair of fancy stays. The gombeenwoman Eliza Tudor had underlinen enough to vie with her of Sheba. Twenty years he dallied there between conjugial love and its chaste delights and scortatory love and its foul pleasures. You know Manningham’s story of the burgher’s wife who bade Dick Burbage to her bed after she had seen him in _Richard III_ and how Shakespeare, overhearing, without more ado about nothing, took the cow by the horns and, when Burbage came knocking at the gate, answered from the capon’s blankets: _William the conqueror came before Richard III_. And the gay lakin, mistress Fitton, mount and cry O, and his dainty birdsnies, lady Penelope Rich, a clean quality woman is suited for a player, and the punks of the bankside, a penny a time.",
+            "O, yes, mention there is. In the years when he was living richly in royal London to pay a debt she had to borrow forty shillings from her father’s shepherd. Explain you then. Explain the swansong too wherein he has commended her to posterity.",
+            "To whom thus Eglinton: You mean the will. But that has been explained, I believe, by jurists. She was entitled to her widow’s dower At common law. His legal knowledge was great Our judges tell us.             Him Satan fleers, Mocker:             And therefore he left out her name From the first draft but he did not leave out The presents for his granddaughter, for his daughters, For his sister, for his old cronies in Stratford And in London. And therefore when he was urged, As I believe, to name her He left her his Secondbest Bed."
+        ]
+    },
+    "Stratford": {
+        "nominatim": [
+            52.9878821,
+            -6.6734457
+        ],
+        "lines": [
+            59,
+            68,
+            105,
+            261,
+            274,
+            279,
+            404
+        ],
+        "count": 7,
+        "text": [
+            "—What is a ghost? Stephen said with tingling energy. One who has faded into impalpability through death, through absence, through change of manners. Elizabethan London lay as far from Stratford as corrupt Paris lies from virgin Dublin. Who is the ghost from _limbo patrum_, returning to the world that has forgotten him? Who is King Hamlet?",
+            "bidding him list. To a son he speaks, the son of his soul, the prince, young Hamlet and to the son of his body, Hamnet Shakespeare, who has died in Stratford that his namesake may live for ever.",
+            "—He had a good groatsworth of wit, Stephen said, and no truant memory. He carried a memory in his wallet as he trudged to Romeville whistling _The girl I left behind me._ If the earthquake did not time it we should know where to place poor Wat, sitting in his form, the cry of hounds, the studded bridle and her blue windows. That memory, _Venus and Adonis_, lay in the bedchamber of every light-of-love in London. Is Katharine the shrew illfavoured? Hortensio calls her young and beautiful. Do you think the writer of _Antony and Cleopatra_, a passionate pilgrim, had his eyes in the back of his head that he chose the ugliest doxy in all Warwickshire to lie withal? Good: he left her and gained the world of men. But his boywomen are the women of a boy. Their life, thought, speech are lent them by males. He chose badly? He was chosen, it seems to me. If others have their will Ann hath a way. By cock, she was to blame. She put the comether on him, sweet and twentysix. The greyeyed goddess who bends over the boy Adonis, stooping to conquer, as prologue to the swelling act, is a boldfaced Stratford wench who tumbles in a cornfield a lover younger than herself.",
+            "—And Harry of six wives’ daughter. And other lady friends from neighbour seats as Lawn Tennyson, gentleman poet, sings. But all those twenty years what do you suppose poor Penelope in Stratford was doing behind the diamond panes?",
+            "To whom thus Eglinton: You mean the will. But that has been explained, I believe, by jurists. She was entitled to her widow’s dower At common law. His legal knowledge was great Our judges tell us.             Him Satan fleers, Mocker:             And therefore he left out her name From the first draft but he did not leave out The presents for his granddaughter, for his daughters, For his sister, for his old cronies in Stratford And in London. And therefore when he was urged, As I believe, to name her He left her his Secondbest Bed.",
+            "—He was a rich country gentleman, Stephen said, with a coat of arms and landed estate at Stratford and a house in Ireland yard, a capitalist shareholder, a bill promoter, a tithefarmer. Why did he not leave her his best bed if he wished her to snore away the rest of her nights in peace?",
+            "—Well, in that case, he said, I don’t see why you should expect payment for it since you don’t believe it yourself. Dowden believes there is some mystery in _Hamlet_ but will say no more. Herr Bleibtreu, the man Piper met in Berlin, who is working up that Rutland theory, believes that the secret is hidden in the Stratford monument. He is going to visit the present duke, Piper says, and prove to him that his ancestor wrote the plays. It will come as a surprise to his grace. But he believes his theory."
+        ]
+    },
+    "Dublin": {
+        "nominatim": [
+            53.3493795,
+            -6.2605593
+        ],
+        "lines": [
+            59,
+            126,
+            172,
+            207
+        ],
+        "count": 4,
+        "text": [
+            "—What is a ghost? Stephen said with tingling energy. One who has faded into impalpability through death, through absence, through change of manners. Elizabethan London lay as far from Stratford as corrupt Paris lies from virgin Dublin. Who is the ghost from _limbo patrum_, returning to the world that has forgotten him? Who is King Hamlet?",
+            "Young Colum and Starkey. George Roberts is doing the commercial part. Longworth will give it a good puff in the _Express._ O, will he? I liked Colum’s _Drover._ Yes, I think he has that queer thing genius. Do you think he has genius really? Yeats admired his line: _As in wild earth a Grecian vase_. Did he? I hope you’ll be able to come tonight. Malachi Mulligan is coming too. Moore asked him to bring Haines. Did you hear Miss Mitchell’s joke about Moore and Martyn? That Moore is Martyn’s wild oats? Awfully clever, isn’t it? They remind one of Don Quixote and Sancho Panza. Our national epic has yet to be written, Dr Sigerson says. Moore is the man for it. A knight of the rueful countenance here in Dublin. With a saffron kilt? O’Neill Russell? O, yes, he must speak the grand old tongue. And his Dulcinea? James Stephens is doing some clever sketches. We are becoming important, it seems.",
+            "How many miles to Dublin?      Three score and ten, sir.      Will we be there by candlelight?",
+            "—The bard’s fellowcountrymen, John Eglinton answered, are rather tired perhaps of our brilliancies of theorising. I hear that an actress played Hamlet for the fourhundredandeighth time last night in Dublin. Vining held that the prince was a woman. Has no-one made him out to be an Irishman? Judge Barton, I believe, is searching for some clues. He swears (His Highness not His Lordship) by saint Patrick."
+        ]
+    },
+    "Avon": {
+        "nominatim": [
+            53.160951499999996,
+            -6.535732256358223
+        ],
+        "lines": [
+            64
+        ],
+        "count": 1,
+        "text": [
+            "—Shakespeare has left the huguenot’s house in Silver street and walks by the swanmews along the riverbank. But he does not stay to feed the pen chivying her game of cygnets towards the rushes. The swan of Avon has other thoughts."
+        ]
+    },
+    "Denmark": {
+        "nominatim": [
+            53.3550272,
+            -6.2626435
+        ],
+        "lines": [
+            69
+        ],
+        "count": 1,
+        "text": [
+            "Is it possible that that player Shakespeare, a ghost by absence, and in the vesture of buried Denmark, a ghost by death, speaking his own words to his own son’s name (had Hamnet Shakespeare lived he would have been prince Hamlet’s twin), is it possible, I want to know, or probable that he did not draw or foresee the logical conclusion of those premises: you are the dispossessed son: I am the murdered father: your mother is the guilty queen, Ann Shakespeare, born Hathaway?"
+        ]
+    },
+    "Romeville": {
+        "nominatim": [],
+        "lines": [
+            105
+        ],
+        "count": 1,
+        "text": [
+            "—He had a good groatsworth of wit, Stephen said, and no truant memory. He carried a memory in his wallet as he trudged to Romeville whistling _The girl I left behind me._ If the earthquake did not time it we should know where to place poor Wat, sitting in his form, the cry of hounds, the studded bridle and her blue windows. That memory, _Venus and Adonis_, lay in the bedchamber of every light-of-love in London. Is Katharine the shrew illfavoured? Hortensio calls her young and beautiful. Do you think the writer of _Antony and Cleopatra_, a passionate pilgrim, had his eyes in the back of his head that he chose the ugliest doxy in all Warwickshire to lie withal? Good: he left her and gained the world of men. But his boywomen are the women of a boy. Their life, thought, speech are lent them by males. He chose badly? He was chosen, it seems to me. If others have their will Ann hath a way. By cock, she was to blame. She put the comether on him, sweet and twentysix. The greyeyed goddess who bends over the boy Adonis, stooping to conquer, as prologue to the swelling act, is a boldfaced Stratford wench who tumbles in a cornfield a lover younger than herself."
+        ]
+    },
+    "Warwickshire": {
+        "nominatim": [
+            52.3103864,
+            -1.7546027199105025
+        ],
+        "lines": [
+            105
+        ],
+        "count": 1,
+        "text": [
+            "—He had a good groatsworth of wit, Stephen said, and no truant memory. He carried a memory in his wallet as he trudged to Romeville whistling _The girl I left behind me._ If the earthquake did not time it we should know where to place poor Wat, sitting in his form, the cry of hounds, the studded bridle and her blue windows. That memory, _Venus and Adonis_, lay in the bedchamber of every light-of-love in London. Is Katharine the shrew illfavoured? Hortensio calls her young and beautiful. Do you think the writer of _Antony and Cleopatra_, a passionate pilgrim, had his eyes in the back of his head that he chose the ugliest doxy in all Warwickshire to lie withal? Good: he left her and gained the world of men. But his boywomen are the women of a boy. Their life, thought, speech are lent them by males. He chose badly? He was chosen, it seems to me. If others have their will Ann hath a way. By cock, she was to blame. She put the comether on him, sweet and twentysix. The greyeyed goddess who bends over the boy Adonis, stooping to conquer, as prologue to the swelling act, is a boldfaced Stratford wench who tumbles in a cornfield a lover younger than herself."
+        ]
+    },
+    "Babylon": {
+        "nominatim": [
+            52.843731,
+            -8.9833667
+        ],
+        "lines": [
+            142
+        ],
+        "count": 1,
+        "text": [
+            "Christfox in leather trews, hiding, a runaway in blighted treeforks, from hue and cry. Knowing no vixen, walking lonely in the chase. Women he won to him, tender people, a whore of Babylon, ladies of justices, bully tapsters’ wives. Fox and geese. And in New Place a slack dishonoured body that once was comely, once as sweet, as fresh as cinnamon, now her leaves falling, all, bare, frighted of the narrow grave and unforgiven."
+        ]
+    },
+    "Tyre": {
+        "nominatim": [
+            54.0716122,
+            -7.0800306590013165
+        ],
+        "lines": [
+            167
+        ],
+        "count": 1,
+        "text": [
+            "—If you want to know what are the events which cast their shadow over the hell of time of _King Lear, Othello, Hamlet, Troilus and Cressida,_ look to see when and how the shadow lifts. What softens the heart of a man, shipwrecked in storms dire, Tried, like another Ulysses, Pericles, prince of Tyre?"
+        ]
+    },
+    "Pembroke": {
+        "nominatim": [
+            51.8723011,
+            -8.3423335
+        ],
+        "lines": [
+            181
+        ],
+        "count": 1,
+        "text": [
+            "—I hope Mr Dedalus will work out his theory for the enlightenment of the public. And we ought to mention another Irish commentator, Mr George Bernard Shaw. Nor should we forget Mr Frank Harris. His articles on Shakespeare in the _Saturday Review_ were surely brilliant. Oddly enough he too draws for us an unhappy relation with the dark lady of the sonnets. The favoured rival is William Herbert, earl of Pembroke. I own that if the poet must be rejected such a rejection would seem more in harmony with—what shall I say?—our notions of what ought not to have been."
+        ]
+    },
+    "Elsinore": {
+        "nominatim": [
+            51.92629515,
+            -8.180705743148366
+        ],
+        "lines": [
+            186
+        ],
+        "count": 1,
+        "text": [
+            "—The soul has been before stricken mortally, a poison poured in the porch of a sleeping ear. But those who are done to death in sleep cannot know the manner of their quell unless their Creator endow their souls with that knowledge in the life to come. The poisoning and the beast with two backs that urged it King Hamlet’s ghost could not know of were he not endowed with knowledge by his creator. That is why the speech (his lean unlovely English) is always turned elsewhere, backward. Ravisher and ravished, what he would but would not, go with him from Lucrece’s bluecircled ivory globes to Imogen’s breast, bare, with its mole cinquespotted. He goes back, weary of the creation he has piled up to hide him from himself, an old dog licking an old sore. But, because loss is his gain, he passes on towards eternity in undiminished personality, untaught by the wisdom he has written or by the laws he has revealed. His beaver is up. He is a ghost, a shadow now, the wind by Elsinore’s rocks or what you will, the sea’s voice, a voice heard only in the heart of him who is the substance of his shadow, the son consubstantial with the father."
+        ]
+    },
+    "Panama": {
+        "nominatim": [
+            54.0044092,
+            -6.4030016
+        ],
+        "lines": [
+            192
+        ],
+        "count": 1,
+        "text": [
+            "Primrosevested he greeted gaily with his doffed Panama as with a bauble."
+        ]
+    },
+    "Glasthule": {
+        "nominatim": [
+            53.2875535,
+            -6.125101
+        ],
+        "lines": [
+            231
+        ],
+        "count": 1,
+        "text": [
+            "—The tramper Synge is looking for you, he said, to murder you. He heard you pissed on his halldoor in Glasthule. He’s out in pampooties to murder you."
+        ]
+    },
+    "Clamart": {
+        "nominatim": [],
+        "lines": [
+            235
+        ],
+        "count": 1,
+        "text": [
+            "Harsh gargoyle face that warred against me over our mess of hash of lights in rue Saint-André-des-Arts. In words of words for words, palabras. Oisin with Patrick. Faunman he met in Clamart woods, brandishing a winebottle. _C’est vendredi saint!_ Murthering Irish. His image, wandering, he met. I mine. I met a fool i’the forest."
+        ]
+    },
+    "Cork": {
+        "nominatim": [
+            51.897077,
+            -8.4654674
+        ],
+        "lines": [
+            245
+        ],
+        "count": 1,
+        "text": [
+            "—All the leading provincial... _Northern Whig, Cork Examiner, Enniscorthy Guardian,_ 1903... Will you please?... Evans, conduct this gentleman... If you just follow the atten... Or, please allow me... This way... Please, sir..."
+        ]
+    },
+    "Troy": {
+        "nominatim": [
+            53.205737,
+            -7.6983476
+        ],
+        "lines": [
+            256
+        ],
+        "count": 1,
+        "text": [
+            "—Antisthenes, pupil of Gorgias, Stephen said, took the palm of beauty from Kyrios Menelaus’ brooddam, Argive Helen, the wooden mare of Troy in whom a score of heroes slept, and handed it to poor Penelope. Twenty years he lived in London and, during part of that time, he drew a salary equal to that of the lord chancellor of Ireland. His life was rich. His art, more than the art of feudalism as Walt Whitman called it, is the art of surfeit. Hot herringpies, green mugs of sack, honeysauces, sugar of roses, marchpane, gooseberried pigeons, ringocandies. Sir Walter Raleigh, when they arrested him, had half a million francs on his back including a pair of fancy stays. The gombeenwoman Eliza Tudor had underlinen enough to vie with her of Sheba. Twenty years he dallied there between conjugial love and its chaste delights and scortatory love and its foul pleasures. You know Manningham’s story of the burgher’s wife who bade Dick Burbage to her bed after she had seen him in _Richard III_ and how Shakespeare, overhearing, without more ado about nothing, took the cow by the horns and, when Burbage came knocking at the gate, answered from the capon’s blankets: _William the conqueror came before Richard III_. And the gay lakin, mistress Fitton, mount and cry O, and his dainty birdsnies, lady Penelope Rich, a clean quality woman is suited for a player, and the punks of the bankside, a penny a time."
+        ]
+    },
+    "Ireland": {
+        "nominatim": [
+            53.41523525,
+            -7.966595219444855
+        ],
+        "lines": [
+            256,
+            279,
+            418
+        ],
+        "count": 3,
+        "text": [
+            "—Antisthenes, pupil of Gorgias, Stephen said, took the palm of beauty from Kyrios Menelaus’ brooddam, Argive Helen, the wooden mare of Troy in whom a score of heroes slept, and handed it to poor Penelope. Twenty years he lived in London and, during part of that time, he drew a salary equal to that of the lord chancellor of Ireland. His life was rich. His art, more than the art of feudalism as Walt Whitman called it, is the art of surfeit. Hot herringpies, green mugs of sack, honeysauces, sugar of roses, marchpane, gooseberried pigeons, ringocandies. Sir Walter Raleigh, when they arrested him, had half a million francs on his back including a pair of fancy stays. The gombeenwoman Eliza Tudor had underlinen enough to vie with her of Sheba. Twenty years he dallied there between conjugial love and its chaste delights and scortatory love and its foul pleasures. You know Manningham’s story of the burgher’s wife who bade Dick Burbage to her bed after she had seen him in _Richard III_ and how Shakespeare, overhearing, without more ado about nothing, took the cow by the horns and, when Burbage came knocking at the gate, answered from the capon’s blankets: _William the conqueror came before Richard III_. And the gay lakin, mistress Fitton, mount and cry O, and his dainty birdsnies, lady Penelope Rich, a clean quality woman is suited for a player, and the punks of the bankside, a penny a time.",
+            "—He was a rich country gentleman, Stephen said, with a coat of arms and landed estate at Stratford and a house in Ireland yard, a capitalist shareholder, a bill promoter, a tithefarmer. Why did he not leave her his best bed if he wished her to snore away the rest of her nights in peace?",
+            "—Monsieur Moore, he said, lecturer on French letters to the youth of Ireland. I’ll be there. Come, Kinch, the bards must drink. Can you walk straight?"
+        ]
+    },
+    "Sheba": {
+        "nominatim": [],
+        "lines": [
+            256
+        ],
+        "count": 1,
+        "text": [
+            "—Antisthenes, pupil of Gorgias, Stephen said, took the palm of beauty from Kyrios Menelaus’ brooddam, Argive Helen, the wooden mare of Troy in whom a score of heroes slept, and handed it to poor Penelope. Twenty years he lived in London and, during part of that time, he drew a salary equal to that of the lord chancellor of Ireland. His life was rich. His art, more than the art of feudalism as Walt Whitman called it, is the art of surfeit. Hot herringpies, green mugs of sack, honeysauces, sugar of roses, marchpane, gooseberried pigeons, ringocandies. Sir Walter Raleigh, when they arrested him, had half a million francs on his back including a pair of fancy stays. The gombeenwoman Eliza Tudor had underlinen enough to vie with her of Sheba. Twenty years he dallied there between conjugial love and its chaste delights and scortatory love and its foul pleasures. You know Manningham’s story of the burgher’s wife who bade Dick Burbage to her bed after she had seen him in _Richard III_ and how Shakespeare, overhearing, without more ado about nothing, took the cow by the horns and, when Burbage came knocking at the gate, answered from the capon’s blankets: _William the conqueror came before Richard III_. And the gay lakin, mistress Fitton, mount and cry O, and his dainty birdsnies, lady Penelope Rich, a clean quality woman is suited for a player, and the punks of the bankside, a penny a time."
+        ]
+    },
+    "Highfield": {
+        "nominatim": [
+            51.517459200000005,
+            -9.323000268178573
+        ],
+        "lines": [
+            287
+        ],
+        "count": 1,
+        "text": [
+            "William Shakespeare and company, limited. The people’s William. For terms apply: E. Dowden, Highfield house..."
+        ]
+    },
+    "Almany": {
+        "nominatim": [],
+        "lines": [
+            294
+        ],
+        "count": 1,
+        "text": [
+            "—And the sense of property, Stephen said. He drew Shylock out of his own long pocket. The son of a maltjobber and moneylender he was himself a cornjobber and moneylender, with ten tods of corn hoarded in the famine riots. His borrowers are no doubt those divers of worship mentioned by Chettle Falstaff who reported his uprightness of dealing. He sued a fellowplayer for the price of a few bags of malt and exacted his pound of flesh in interest for every money lent. How else could Aubrey’s ostler and callboy get rich quick? All events brought grist to his mill. Shylock chimes with the jewbaiting that followed the hanging and quartering of the queen’s leech Lopez, his jew’s heart being plucked forth while the sheeny was yet alive: _Hamlet_ and _Macbeth_ with the coming to the throne of a Scotch philosophaster with a turn for witchroasting. The lost armada is his jeer in _Love’s Labour Lost_. His pageants, the histories, sail fullbellied on a tide of Mafeking enthusiasm. Warwickshire jesuits are tried and we have a porter’s theory of equivocation. The _Sea Venture_ comes home from Bermudas and the play Renan admired is written with Patsy Caliban, our American cousin. The sugared sonnets follow Sidney’s. As for fay Elizabeth, otherwise carrotty Bess, the gross virgin who inspired _The Merry Wives of Windsor_, let some meinherr from Almany grope his life long for deephid meanings in the depths of the buckbasket."
+        ]
+    },
+    "Germany": {
+        "nominatim": [
+            52.51562265,
+            13.380733556555636
+        ],
+        "lines": [
+            298
+        ],
+        "count": 1,
+        "text": [
+            "—He was made in Germany, Stephen replied, as the champion French polisher of Italian scandals."
+        ]
+    },
+    "Ultonian Antrim": {
+        "nominatim": [],
+        "lines": [
+            315
+        ],
+        "count": 1,
+        "text": [
+            "Lean, he lay back. Shy, deny thy kindred, the unco guid. Shy, supping with the godless, he sneaks the cup. A sire in Ultonian Antrim bade it him. Visits him here on quarter days. Mr Magee, sir, there’s a gentleman to see you. Me? Says he’s your father, sir. Give me my Wordsworth. Enter Magee Mor Matthew, a rugged rough rugheaded kern, in strossers with a buttoned codpiece, his nether stocks bemired with clauber of ten forests, a wand of wilding in his hand."
+        ]
+    },
+    "Wittenberg": {
+        "nominatim": [],
+        "lines": [
+            318
+        ],
+        "count": 1,
+        "text": [
+            "—A father, Stephen said, battling against hopelessness, is a necessary evil. He wrote the play in the months that followed his father’s death. If you hold that he, a greying man with two marriageable daughters, with thirtyfive years of life, _nel mezzo del cammin di nostra vita_, with fifty of experience, is the beardless undergraduate from Wittenberg then you must hold that his seventyyear old mother is the lustful queen. No. The corpse of John Shakespeare does not walk the night. From hour to hour it rots and rots. He rests, disarmed of fatherhood, having devised that mystical estate upon his son. Boccaccio’s Calandrino was the first and last man who felt himself with child. Fatherhood, in the sense of conscious begetting, is unknown to man. It is a mystical estate, an apostolic succession, from only begetter to only begotten. On that mystery and not on the madonna which the cunning Italian intellect flung to the mob of Europe the church is founded and founded irremovably because founded, like the world, macro and microcosm, upon the void. Upon incertitude, upon unlikelihood. _Amor matris_, subjective and objective genitive, may be the only true thing in life. Paternity may be a legal fiction. Who is the father of any son that any son should love him or he any son?"
+        ]
+    },
+    "Arden": {
+        "nominatim": [
+            52.9911855,
+            -8.13294672021145
+        ],
+        "lines": [
+            333
+        ],
+        "count": 1,
+        "text": [
+            "—As for his family, Stephen said, his mother’s name lives in the forest of Arden. Her death brought from him the scene with Volumnia in _Coriolanus._ His boyson’s death is the deathscene of young Arthur in _King John._ Hamlet, the black prince, is Hamnet Shakespeare. Who the girls in _The Tempest_, in _Pericles,_ in _Winter’s Tale_ are we know. Who Cleopatra, fleshpot of Egypt, and Cressid and Venus are we may guess. But there is another member of his family who is recorded."
+        ]
+    },
+    "Egypt": {
+        "nominatim": [
+            53.3290953,
+            -6.2366569629051245
+        ],
+        "lines": [
+            333
+        ],
+        "count": 1,
+        "text": [
+            "—As for his family, Stephen said, his mother’s name lives in the forest of Arden. Her death brought from him the scene with Volumnia in _Coriolanus._ His boyson’s death is the deathscene of young Arthur in _King John._ Hamlet, the black prince, is Hamnet Shakespeare. Who the girls in _The Tempest_, in _Pericles,_ in _Winter’s Tale_ are we know. Who Cleopatra, fleshpot of Egypt, and Cressid and Venus are we may guess. But there is another member of his family who is recorded."
+        ]
+    },
+    "Lunnon": {
+        "nominatim": [
+            51.51897835,
+            -0.13758160573183548
+        ],
+        "lines": [
+            340
+        ],
+        "count": 1,
+        "text": [
+            "STEPHEN: He had three brothers, Gilbert, Edmund, Richard. Gilbert in his old age told some cavaliers he got a pass for nowt from Maister Gatherer one time mass he did and he seen his brud Maister Wull the playwriter up in Lunnon in a wrastling play wud a man on’s back. The playhouse sausage filled Gilbert’s soul. He is nowhere: but an Edmund and a Richard are recorded in the works of sweet William."
+        ]
+    },
+    "Southwark": {
+        "nominatim": [],
+        "lines": [
+            345
+        ],
+        "count": 1,
+        "text": [
+            "STEPHEN: In his trinity of black Wills, the villain shakebags, Iago, Richard Crookback, Edmund in _King Lear_, two bear the wicked uncles’ names. Nay, that last play was written or being written while his brother Edmund lay dying in Southwark."
+        ]
+    },
+    "Italy": {
+        "nominatim": [
+            52.1414872,
+            -10.2688828
+        ],
+        "lines": [
+            349
+        ],
+        "count": 1,
+        "text": [
+            "STEPHEN: _(Stringendo)_ He has hidden his own name, a fair name, William, in the plays, a super here, a clown there, as a painter of old Italy set his face in a dark corner of his canvas. He has revealed it in the sonnets where there is Will in overplus. Like John o’Gaunt his name is dear to him, as dear as the coat and crest he toadied for, on a bend sable a spear or steeled argent, honorificabilitudinitatibus, dearer than his glory of greatest shakescene in the country. What’s in a name? That is what we ask ourselves in childhood when we write the name that we are told is ours. A star, a daystar, a firedrake, rose at his birth. It shone by day in the heavens alone, brighter than Venus in the night, and by night it shone over delta in Cassiopeia, the recumbent constellation which is the signature of his initial among the stars. His eyes watched it, lowlying on the horizon, eastward of the bear, as he walked by the slumberous summer fields at midnight returning from Shottery and from her arms."
+        ]
+    },
+    "Maynooth": {
+        "nominatim": [
+            53.3830239,
+            -6.5922806
+        ],
+        "lines": [
+            383
+        ],
+        "count": 1,
+        "text": [
+            "—Why? Stephen answered himself. Because the theme of the false or the usurping or the adulterous brother or all three in one is to Shakespeare, what the poor are not, always with him. The note of banishment, banishment from the heart, banishment from home, sounds uninterruptedly from _The Two Gentlemen of Verona_ onward till Prospero breaks his staff, buries it certain fathoms in the earth and drowns his book. It doubles itself in the middle of his life, reflects itself in another, repeats itself, protasis, epitasis, catastasis, catastrophe. It repeats itself again when he is near the grave, when his married daughter Susan, chip of the old block, is accused of adultery. But it was the original sin that darkened his understanding, weakened his will and left in him a strong inclination to evil. The words are those of my lords bishops of Maynooth. An original sin and, like original sin, committed by another in whose sin he too has sinned. It is between the lines of his last written words, it is petrified on his tombstone under which her four bones are not to be laid. Age has not withered it. Beauty and peace have not done it away. It is in infinite variety everywhere in the world he has created, in _Much Ado about Nothing_, twice in _As you like It_, in _The Tempest_, in _Hamlet,_ in _Measure for Measure_—and in all the other plays which I have not read."
+        ]
+    },
+    "Berlin": {
+        "nominatim": [
+            52.8366564,
+            -6.9237523
+        ],
+        "lines": [
+            404
+        ],
+        "count": 1,
+        "text": [
+            "—Well, in that case, he said, I don’t see why you should expect payment for it since you don’t believe it yourself. Dowden believes there is some mystery in _Hamlet_ but will say no more. Herr Bleibtreu, the man Piper met in Berlin, who is working up that Rutland theory, believes that the secret is hidden in the Stratford monument. He is going to visit the present duke, Piper says, and prove to him that his ancestor wrote the plays. It will come as a surprise to his grace. But he believes his theory."
+        ]
+    },
+    "Rutland": {
+        "nominatim": [
+            52.95891035,
+            -7.903080296648172
+        ],
+        "lines": [
+            404
+        ],
+        "count": 1,
+        "text": [
+            "—Well, in that case, he said, I don’t see why you should expect payment for it since you don’t believe it yourself. Dowden believes there is some mystery in _Hamlet_ but will say no more. Herr Bleibtreu, the man Piper met in Berlin, who is working up that Rutland theory, believes that the secret is hidden in the Stratford monument. He is going to visit the present duke, Piper says, and prove to him that his ancestor wrote the plays. It will come as a surprise to his grace. But he believes his theory."
+        ]
+    },
+    "Haines": {
+        "nominatim": [
+            53.2894887,
+            -6.1297938
+        ],
+        "lines": [
+            426
+        ],
+        "count": 1,
+        "text": [
+            "Walk like Haines now."
+        ]
+    },
+    "Camden": {
+        "nominatim": [
+            54.306386849999996,
+            -8.55365761590528
+        ],
+        "lines": [
+            464
+        ],
+        "count": 1,
+        "text": [
+            "—O, the night in the Camden hall when the daughters of Erin had to lift their skirts to step over you as you lay in your mulberrycoloured, multicoloured, multitudinous vomit!"
+        ]
+    },
+    "Kildare": {
+        "nominatim": [
+            53.15436455,
+            -6.8184175660976445
+        ],
+        "lines": [
+            479
+        ],
+        "count": 1,
+        "text": [
+            "Kind air defined the coigns of houses in Kildare street. No birds. Frail from the housetops two plumes of smoke ascended, pluming, and in a flaw of softness softly were blown."
+        ]
+    },
+    "Cymbeline": {
+        "nominatim": [],
+        "lines": [
+            480
+        ],
+        "count": 1,
+        "text": [
+            "Cease to strive. Peace of the druid priests of Cymbeline: hierophantic: from wide earth an altar."
+        ]
+    }
+}

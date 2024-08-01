@@ -1,0 +1,350 @@
+{
+    "Irishtown": {
+        "nominatim": [
+            53.3379644,
+            -6.2224691
+        ],
+        "lines": [
+            11
+        ],
+        "count": 1,
+        "text": [
+            "—Irishtown, Martin Cunningham said. Ringsend. Brunswick street."
+        ]
+    },
+    "Dublin": {
+        "nominatim": [
+            53.3493795,
+            -6.2605593
+        ],
+        "lines": [
+            25,
+            89,
+            204,
+            378
+        ],
+        "count": 4,
+        "text": [
+            "—He’s in with a lowdown crowd, Mr Dedalus snarled. That Mulligan is a contaminated bloody doubledyed ruffian by all accounts. His name stinks all over Dublin. But with the help of God and His blessed mother I’ll make it my business to write a letter one of those days to his mother or his aunt or whatever she is that will open her eye as wide as a gate. I’ll tickle his catastrophe, believe you me.",
+            "Mr Bloom reviewed the nails of his left hand, then those of his right hand. The nails, yes. Is there anything more in him that they she sees? Fascination. Worst man in Dublin. That keeps him alive. They sometimes feel what a person is. Instinct. But a type like that. My nails. I am just looking at them: well pared. And after: thinking alone. Body getting a bit softy. I would notice that: from remembering. What causes that? I suppose the skin can’t contract quickly enough when the flesh falls off. But the shape is there. The shape is there still. Shoulders. Hips. Plump. Night of the dance dressing. Shift stuck between the cheeks behind.",
+            "Their eyes watched him. On the slow weedy waterway he had floated on his raft coastward over Ireland drawn by a haulage rope past beds of reeds, over slime, mudchoked bottles, carrion dogs. Athlone, Mullingar, Moyvalley, I could make a walking tour to see Milly by the canal. Or cycle down. Hire some old crock, safety. Wren had one the other day at the auction but a lady’s. Developing waterways. James M’Cann’s hobby to row me o’er the ferry. Cheaper transit. By easy stages. Houseboats. Camping out. Also hearses. To heaven by water. Perhaps I will without writing. Come as a surprise, Leixlip, Clonsilla. Dropping down lock by lock to Dublin. With turf from the midland bogs. Salute. He lifted his brown straw hat, saluting Paddy Dignam.",
+            "How many! All these here once walked round Dublin. Faithful departed. As you are now so once were we."
+        ]
+    },
+    "Clare": {
+        "nominatim": [
+            52.857257450000006,
+            -8.937435925994537
+        ],
+        "lines": [
+            95,
+            236
+        ],
+        "count": 2,
+        "text": [
+            "—Well no, Mr Bloom said. In point of fact I have to go down to the county Clare on some private business. You see the idea is to tour the chief towns. What you lose on one you can make up on the other.",
+            "—His father poisoned himself, Martin Cunningham whispered. Had the Queen’s hotel in Ennis. You heard him say he was going to Clare. Anniversary."
+        ]
+    },
+    "Waterford": {
+        "nominatim": [
+            52.2609997,
+            -7.1119081
+        ],
+        "lines": [
+            103
+        ],
+        "count": 1,
+        "text": [
+            "Wonder why he was struck off the rolls. Had his office in Hume street. Same house as Molly’s namesake, Tweedy, crown solicitor for Waterford. Has that silk hat ever since. Relics of old decency. Mourning too. Terrible comedown, poor wretch! Kicked about like snuff at a wake. O’Callaghan on his last legs."
+        ]
+    },
+    "the Isle of Man": {
+        "nominatim": [],
+        "lines": [
+            122
+        ],
+        "count": 1,
+        "text": [
+            "—There was a girl in the case, Mr Bloom began, and he determined to send him to the Isle of Man out of harm’s way but when they were both....."
+        ]
+    },
+    "Isle of Man": {
+        "nominatim": [
+            54.4737495,
+            -4.604105
+        ],
+        "lines": [
+            129
+        ],
+        "count": 1,
+        "text": [
+            "—Reuben J and the son were piking it down the quay next the river on their way to the Isle of Man boat and the young chiseller suddenly got loose and over the wall with him into the Liffey."
+        ]
+    },
+    "Parnell": {
+        "nominatim": [
+            53.3530703,
+            -6.2604649
+        ],
+        "lines": [
+            155
+        ],
+        "count": 1,
+        "text": [
+            "Dead side of the street this. Dull business by day, land agents, temperance hotel, Falconer’s railway guide, civil service college, Gill’s, catholic club, the industrious blind. Why? Some reason. Sun or wind. At night too. Chummies and slaveys. Under the patronage of the late Father Mathew. Foundation stone for Parnell. Breakdown. Heart."
+        ]
+    },
+    "Blessington": {
+        "nominatim": [
+            53.1726046,
+            -6.5330892
+        ],
+        "lines": [
+            173
+        ],
+        "count": 1,
+        "text": [
+            "The carriage rattled swiftly along Blessington street. Over the stones."
+        ]
+    },
+    "Germany": {
+        "nominatim": [
+            52.51562265,
+            13.380733556555636
+        ],
+        "lines": [
+            176
+        ],
+        "count": 1,
+        "text": [
+            "—I hope not, Martin Cunningham said. That will be a great race tomorrow in Germany. The Gordon Bennett."
+        ]
+    },
+    "Berkeley": {
+        "nominatim": [
+            52.4145842,
+            -6.872655759585063
+        ],
+        "lines": [
+            178
+        ],
+        "count": 1,
+        "text": [
+            "As they turned into Berkeley street a streetorgan near the Basin sent over and after them a rollicking rattling song of the halls. Has anybody here seen Kelly? Kay ee double ell wy. Dead March from _Saul._ He’s as bad as old Antonio. He left me on my ownio. Pirouette! The _Mater Misericordiae_. Eccles street. My house down there. Big place. Ward for incurables there. Very encouraging. Our Lady’s Hospice for the dying. Deadhouse handy underneath. Where old Mrs Riordan died. They look terrible the women. Her feeding cup and rubbing her mouth with the spoon. Then the screen round her bed for her to die. Nice young student that was dressed that bite the bee gave me. He’s gone over to the lying-in hospital they told me. From one extreme to the other."
+        ]
+    },
+    "Liverpool": {
+        "nominatim": [
+            51.5687073,
+            -9.162556315271008
+        ],
+        "lines": [
+            184
+        ],
+        "count": 1,
+        "text": [
+            "Thursday, of course. Tomorrow is killing day. Springers. Cuffe sold them about twentyseven quid each. For Liverpool probably. Roastbeef for old England. They buy up all the juicy ones. And then the fifth quarter lost: all that raw stuff, hide, hair, horns. Comes to a big thing in a year. Dead meat trade. Byproducts of the slaughterhouses for tanneries, soap, margarine. Wonder if that dodge works now getting dicky meat off the train at Clonsilla."
+        ]
+    },
+    "England": {
+        "nominatim": [
+            52.0600343,
+            -0.347478
+        ],
+        "lines": [
+            184
+        ],
+        "count": 1,
+        "text": [
+            "Thursday, of course. Tomorrow is killing day. Springers. Cuffe sold them about twentyseven quid each. For Liverpool probably. Roastbeef for old England. They buy up all the juicy ones. And then the fifth quarter lost: all that raw stuff, hide, hair, horns. Comes to a big thing in a year. Dead meat trade. Byproducts of the slaughterhouses for tanneries, soap, margarine. Wonder if that dodge works now getting dicky meat off the train at Clonsilla."
+        ]
+    },
+    "Clonsilla": {
+        "nominatim": [
+            53.383333,
+            -6.416667
+        ],
+        "lines": [
+            184,
+            204
+        ],
+        "count": 2,
+        "text": [
+            "Thursday, of course. Tomorrow is killing day. Springers. Cuffe sold them about twentyseven quid each. For Liverpool probably. Roastbeef for old England. They buy up all the juicy ones. And then the fifth quarter lost: all that raw stuff, hide, hair, horns. Comes to a big thing in a year. Dead meat trade. Byproducts of the slaughterhouses for tanneries, soap, margarine. Wonder if that dodge works now getting dicky meat off the train at Clonsilla.",
+            "Their eyes watched him. On the slow weedy waterway he had floated on his raft coastward over Ireland drawn by a haulage rope past beds of reeds, over slime, mudchoked bottles, carrion dogs. Athlone, Mullingar, Moyvalley, I could make a walking tour to see Milly by the canal. Or cycle down. Hire some old crock, safety. Wren had one the other day at the auction but a lady’s. Developing waterways. James M’Cann’s hobby to row me o’er the ferry. Cheaper transit. By easy stages. Houseboats. Camping out. Also hearses. To heaven by water. Perhaps I will without writing. Come as a surprise, Leixlip, Clonsilla. Dropping down lock by lock to Dublin. With turf from the midland bogs. Salute. He lifted his brown straw hat, saluting Paddy Dignam."
+        ]
+    },
+    "Milan": {
+        "nominatim": [
+            51.856462750000006,
+            -8.410315148601587
+        ],
+        "lines": [
+            188
+        ],
+        "count": 1,
+        "text": [
+            "—Yes, Mr Bloom said, and another thing I often thought, is to have municipal funeral trams like they have in Milan, you know. Run the line out to the cemetery gates and have special trams, hearse and carriage and all. Don’t you see what I mean?"
+        ]
+    },
+    "Phibsborough": {
+        "nominatim": [
+            53.3610883,
+            -6.2713186
+        ],
+        "lines": [
+            201
+        ],
+        "count": 1,
+        "text": [
+            "In silence they drove along Phibsborough road. An empty hearse trotted by, coming from the cemetery: looks relieved."
+        ]
+    },
+    "Ireland": {
+        "nominatim": [
+            53.41523525,
+            -7.966595219444855
+        ],
+        "lines": [
+            204,
+            375,
+            377
+        ],
+        "count": 3,
+        "text": [
+            "Their eyes watched him. On the slow weedy waterway he had floated on his raft coastward over Ireland drawn by a haulage rope past beds of reeds, over slime, mudchoked bottles, carrion dogs. Athlone, Mullingar, Moyvalley, I could make a walking tour to see Milly by the canal. Or cycle down. Hire some old crock, safety. Wren had one the other day at the auction but a lady’s. Developing waterways. James M’Cann’s hobby to row me o’er the ferry. Cheaper transit. By easy stages. Houseboats. Camping out. Also hearses. To heaven by water. Perhaps I will without writing. Come as a surprise, Leixlip, Clonsilla. Dropping down lock by lock to Dublin. With turf from the midland bogs. Salute. He lifted his brown straw hat, saluting Paddy Dignam.",
+            "Mr Bloom walked unheeded along his grove by saddened angels, crosses, broken pillars, family vaults, stone hopes praying with upcast eyes, old Ireland’s hearts and hands. More sensible to spend the money on some charity for the living. Pray for the repose of the soul of. Does anybody really? Plant him and have done with him. Like down a coalshoot. Then lump them together to save time. All souls’ day. Twentyseventh I’ll be at his grave. Ten shillings for the gardener. He keeps it free of weeds. Old man himself. Bent down double with his shears clipping. Near death’s door. Who passed away. Who departed this life. As if they did it of their own accord. Got the shove, all of them. Who kicked the bucket. More interesting if they told you what they were. So and So, wheelwright. I travelled for cork lino. I paid five shillings in the pound. Or a woman’s with her saucepan. I cooked good Irish stew. Eulogy in a country churchyard it ought to be that poem of whose is it Wordsworth or Thomas Campbell. Entered into rest the protestants put it. Old Dr Murren’s. The great physician called him home. Well it’s God’s acre for them. Nice country residence. Newly plastered and painted. Ideal spot to have a quiet smoke and read the _Church Times._ Marriage ads they never try to beautify. Rusty wreaths hung on knobs, garlands of bronzefoil. Better value that for the money. Still, the flowers are more poetical. The other gets rather tiresome, never withering. Expresses nothing. Immortelles.",
+            "The Sacred Heart that is: showing it. Heart on his sleeve. Ought to be sideways and red it should be painted like a real heart. Ireland was dedicated to it or whatever that. Seems anything but pleased. Why this infliction? Would birds come then and peck like the boy with the basket of fruit but he said no because they ought to have been afraid of the boy. Apollo that was."
+        ]
+    },
+    "Athlone": {
+        "nominatim": [
+            53.4228434,
+            -7.9425897
+        ],
+        "lines": [
+            204
+        ],
+        "count": 1,
+        "text": [
+            "Their eyes watched him. On the slow weedy waterway he had floated on his raft coastward over Ireland drawn by a haulage rope past beds of reeds, over slime, mudchoked bottles, carrion dogs. Athlone, Mullingar, Moyvalley, I could make a walking tour to see Milly by the canal. Or cycle down. Hire some old crock, safety. Wren had one the other day at the auction but a lady’s. Developing waterways. James M’Cann’s hobby to row me o’er the ferry. Cheaper transit. By easy stages. Houseboats. Camping out. Also hearses. To heaven by water. Perhaps I will without writing. Come as a surprise, Leixlip, Clonsilla. Dropping down lock by lock to Dublin. With turf from the midland bogs. Salute. He lifted his brown straw hat, saluting Paddy Dignam."
+        ]
+    },
+    "Mullingar": {
+        "nominatim": [
+            53.525822,
+            -7.341304
+        ],
+        "lines": [
+            204
+        ],
+        "count": 1,
+        "text": [
+            "Their eyes watched him. On the slow weedy waterway he had floated on his raft coastward over Ireland drawn by a haulage rope past beds of reeds, over slime, mudchoked bottles, carrion dogs. Athlone, Mullingar, Moyvalley, I could make a walking tour to see Milly by the canal. Or cycle down. Hire some old crock, safety. Wren had one the other day at the auction but a lady’s. Developing waterways. James M’Cann’s hobby to row me o’er the ferry. Cheaper transit. By easy stages. Houseboats. Camping out. Also hearses. To heaven by water. Perhaps I will without writing. Come as a surprise, Leixlip, Clonsilla. Dropping down lock by lock to Dublin. With turf from the midland bogs. Salute. He lifted his brown straw hat, saluting Paddy Dignam."
+        ]
+    },
+    "Moyvalley": {
+        "nominatim": [
+            53.4298379,
+            -6.9199634
+        ],
+        "lines": [
+            204
+        ],
+        "count": 1,
+        "text": [
+            "Their eyes watched him. On the slow weedy waterway he had floated on his raft coastward over Ireland drawn by a haulage rope past beds of reeds, over slime, mudchoked bottles, carrion dogs. Athlone, Mullingar, Moyvalley, I could make a walking tour to see Milly by the canal. Or cycle down. Hire some old crock, safety. Wren had one the other day at the auction but a lady’s. Developing waterways. James M’Cann’s hobby to row me o’er the ferry. Cheaper transit. By easy stages. Houseboats. Camping out. Also hearses. To heaven by water. Perhaps I will without writing. Come as a surprise, Leixlip, Clonsilla. Dropping down lock by lock to Dublin. With turf from the midland bogs. Salute. He lifted his brown straw hat, saluting Paddy Dignam."
+        ]
+    },
+    "Leixlip": {
+        "nominatim": [
+            53.3644766,
+            -6.4897438
+        ],
+        "lines": [
+            204
+        ],
+        "count": 1,
+        "text": [
+            "Their eyes watched him. On the slow weedy waterway he had floated on his raft coastward over Ireland drawn by a haulage rope past beds of reeds, over slime, mudchoked bottles, carrion dogs. Athlone, Mullingar, Moyvalley, I could make a walking tour to see Milly by the canal. Or cycle down. Hire some old crock, safety. Wren had one the other day at the auction but a lady’s. Developing waterways. James M’Cann’s hobby to row me o’er the ferry. Cheaper transit. By easy stages. Houseboats. Camping out. Also hearses. To heaven by water. Perhaps I will without writing. Come as a surprise, Leixlip, Clonsilla. Dropping down lock by lock to Dublin. With turf from the midland bogs. Salute. He lifted his brown straw hat, saluting Paddy Dignam."
+        ]
+    },
+    "Finglas": {
+        "nominatim": [
+            53.389167,
+            -6.296944
+        ],
+        "lines": [
+            228
+        ],
+        "count": 1,
+        "text": [
+            "A team of horses passed from Finglas with toiling plodding tread, dragging through the funereal silence a creaking waggon on which lay a granite block. The waggoner marching at their head saluted."
+        ]
+    },
+    "Ennis": {
+        "nominatim": [
+            52.8435152,
+            -8.983747
+        ],
+        "lines": [
+            236
+        ],
+        "count": 1,
+        "text": [
+            "—His father poisoned himself, Martin Cunningham whispered. Had the Queen’s hotel in Ennis. You heard him say he was going to Clare. Anniversary."
+        ]
+    },
+    "Cork": {
+        "nominatim": [
+            51.897077,
+            -8.4654674
+        ],
+        "lines": [
+            249,
+            250
+        ],
+        "count": 2,
+        "text": [
+            "—Never better. How are all in Cork’s own town?",
+            "—I was down there for the Cork park races on Easter Monday, Ned Lambert said. Same old six and eightpence. Stopped with Dick Tivy."
+        ]
+    },
+    "Rome": {
+        "nominatim": [
+            53.3457261,
+            -6.2643978
+        ],
+        "lines": [
+            278
+        ],
+        "count": 1,
+        "text": [
+            "—He’s at rest, he said, in the middle of his people, old Dan O’. But his heart is buried in Rome. How many broken hearts are buried here, Simon!"
+        ]
+    },
+    "Roundtown": {
+        "nominatim": [],
+        "lines": [
+            306
+        ],
+        "count": 1,
+        "text": [
+            "—O, to be sure, John Henry Menton said. I haven’t seen her for some time. She was a finelooking woman. I danced with her, wait, fifteen seventeen golden years ago, at Mat Dillon’s in Roundtown. And a good armful she was."
+        ]
+    },
+    "Mulcahy": {
+        "nominatim": [
+            53.31511935,
+            -6.333169162139262
+        ],
+        "lines": [
+            320
+        ],
+        "count": 1,
+        "text": [
+            "—Did you hear that one, he asked them, about Mulcahy from the Coombe?"
+        ]
+    }
+}
