@@ -6,13 +6,15 @@ from bson.objectid import ObjectId
 # 連接 Mongo
 client = motor.motor_asyncio.AsyncIOMotorClient(os.environ["ME_CONFIG_MONGODB_URL"])
 database = client.ansc
-data_collection = database.get_collection("app")
+data_collection = database.get_collection("chapter")
+
 
 ## 洗格式
 def helper(_dict: dict) -> dict:
-    _dict["id"]  = str(_dict["_id"])
+    _dict["id"] = str(_dict["_id"])
     del _dict["_id"]
     return _dict
+
 
 # CRUD 增刪查改
 # 新增
@@ -25,14 +27,16 @@ async def add_data(new_data: dict | list) -> dict | list:
     elif isinstance(new_data, list):
         # 批量插入多个数据
         datas = await data_collection.insert_many(new_data)
-        new_data = [ helper(data) for data in new_data]
+        new_data = [helper(data) for data in new_data]
         return new_data
-    
+
+
 # async def add_data(new_data: dict|list) -> dict:
 #     # 加入
 #     data = await data_collection.insert_one(new_data)
 #     new_data = await data_collection.find_one({"_id": data.inserted_id})
 #     return helper(new_data)
+
 
 # 刪除
 async def delete_data(id: str):
@@ -43,6 +47,7 @@ async def delete_data(id: str):
             return True
     return False
 
+
 # 查看
 ## 全部
 async def get_datas() -> list:
@@ -50,6 +55,7 @@ async def get_datas() -> list:
     async for data in data_collection.find():
         datas.append(helper(data))
     return datas
+
 
 ## 單個
 async def get_data(id: str):
@@ -61,6 +67,16 @@ async def get_data(id: str):
         except:
             return False
     return False
+
+
+async def get_data_by_chapter(num: int):
+    try:
+        cursor = data_collection.find({"chapter": num})
+        data_list = [helper(data) async for data in cursor]
+        return data_list
+    except:
+        return False
+
 
 # 更新
 async def update_data(id: str, new_data: dict):
