@@ -8,7 +8,7 @@
       </Navbar>
     </template>
     <template v-slot:sidebaritem>
-      <SidebarItem :items="siderbaritems" ></SidebarItem>
+      <SidebarItem :items="siderbaritems"></SidebarItem>
     </template>
     <slot></slot>
   </Sidebar>
@@ -17,25 +17,21 @@
 <script lang="ts" setup>
 const title = 'NLP in Map'
 
+const book = Array.from({ length: 18 }, (_, index) => ({
+  text: `Chapter ${index + 1}`,
+  link: `/chapter/${index + 1}`
+}));
+
 const siderbaritems = [
   {
-    items: [
-      // { text: '儀表板', link: '/' },
-    ]
+    text: 'Book',
+    items: book
   },
   {
-    text: '工具箱',
+    text: 'Auth',
     items: [
-      { text: '要事', link: '/todo' },
-      { text: '記帳', link: '/account' },
-      { text: 'QRCode', link: '/qrcode'}
-    ]
-  },
-  {
-    text: '身份管理',
-    items: [
-      { text: '用戶', link: '/user' },
-      { text: '組別', link: '/group' }
+      { text: 'User', link: '/user' },
+      { text: 'Group', link: '/group' }
     ]
   }
 ]
@@ -49,10 +45,10 @@ const siderbaritems = [
 .page-leave-active {
   transition: all 0.1s ease-in;
 }
+
 .page-enter-from,
 .page-leave-to {
   opacity: 0.2;
   filter: blur(1rem);
 }
-
 </style>
