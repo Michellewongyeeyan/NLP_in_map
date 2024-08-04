@@ -19,7 +19,7 @@ const title = 'NLP in Map'
 
 const book = Array.from({ length: 18 }, (_, index) => ({
   text: `Chapter ${index + 1}`,
-  link: `/chapter/${index + 1}`
+  link: `/chapters/${index + 1}`
 }));
 
 const siderbaritems = [
