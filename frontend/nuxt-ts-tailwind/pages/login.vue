@@ -3,7 +3,7 @@
     <div class="card bg-base-100 w-full max-w-sm shrink-0">
       <div class="card-body pb-36">
         <h1 class="form-control text-4xl text-center font-bold mb-4">
-          Piggy Flow
+          NLP in Map
         </h1>
         <div class="form-control">
           <label class="label">
