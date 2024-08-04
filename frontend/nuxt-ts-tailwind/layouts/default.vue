@@ -15,7 +15,7 @@
 </template>
 
 <script lang="ts" setup>
-const title = 'Piggy Flow'
+const title = 'NLP in Map'
 
 const siderbaritems = [
   {
