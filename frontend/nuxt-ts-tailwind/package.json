@@ -10,6 +10,7 @@
     "postinstall": "nuxt prepare"
   },
   "dependencies": {
+    "@nuxtjs/leaflet": "^1.2.0",
     "@vueuse/core": "^10.11.0",
     "nuxt": "^3.12.3",
     "qrcode.vue": "^3.4.1"
