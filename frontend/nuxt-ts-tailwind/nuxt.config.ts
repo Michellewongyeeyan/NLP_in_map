@@ -30,5 +30,6 @@ export default defineNuxtConfig({
     },
   },
 
-  compatibilityDate: '2024-08-04'
+  compatibilityDate: '2024-08-04',
+  modules: ["@nuxtjs/leaflet"]
 })
