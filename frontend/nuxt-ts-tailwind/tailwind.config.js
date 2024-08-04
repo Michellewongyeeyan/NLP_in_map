@@ -15,10 +15,10 @@ export default {
   daisyui: {
     themes: [
       {
-        "light": { ...require("daisyui/src/theming/themes")["lofi"] },
+        "light": { ...require("daisyui/src/theming/themes")["winter"] },
       },
       {
-        "dark": { ...require("daisyui/src/theming/themes")["black"] }
+        "dark": { ...require("daisyui/src/theming/themes")["night"] }
       }
     ],
   },
