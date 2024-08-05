@@ -1,7 +1,7 @@
 <!-- https://leaflet.nuxtjs.org/ -->
 <template>
   <div class="size-full">
-    <LMap ref="map" :zoom="zoom" :center="[54.21322, -2.59482]" :use-global-leaflet="false" autoZIndex class="z-0">
+    <LMap ref="map" :zoom="zoom" :center="[54.74322, -2.59482]" :use-global-leaflet="false" autoZIndex class="z-0">
       <LTileLayer url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png"
         attribution="&amp;copy; <a href=&quot;https://www.openstreetmap.org/&quot;>OpenStreetMap</a> contributors"
         layer-type="base" name="OpenStreetMap" />
